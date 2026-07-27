@@ -1,3 +1,4 @@
+# Armstrong number
 num = int(input("Enter the number: "))
 dup = num
 length = len(str(num))
